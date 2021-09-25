@@ -9,4 +9,12 @@ Therefore, I wanted to start this repository to:
 2. Get myself to actually start doing instead of learning
 3. To help/encourage anyone that sees this and who's experiencing the same thing as I am :grin:
 
-The general consensus of the best way to learn data science is to DO data science. SO, let me start of my trying to implement a data science project.
+The general consensus of the best way to learn data science is to DO data science. 
+There are a few key topics that I want to focus on, these are:
+1. Data Collection
+2. Data Cleaning
+3. EDA
+4. Model building
+5. Productionization/Deployment
+
+This list is NOT exhaustive and there are certainly a lot more highly specific and specialized areas that we can look into within and outside the topics listed above.
